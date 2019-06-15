@@ -89,7 +89,7 @@ private:
         {
             return YAMLEncoding(tk->text);
         }
-        return parseBlockContent();
+        return parseBlock();
     }
 
     void parse()

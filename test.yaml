@@ -1,0 +1,10 @@
+- item 0
+- item 1
+- key 0: value 0
+  key 1:
+      key 2: item 2
+      key 3:
+          - item 3
+          - item 4
+  key 2: value 1
+- item 5
